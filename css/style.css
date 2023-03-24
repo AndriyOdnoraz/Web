@@ -87,8 +87,7 @@ body{
 .profile-table{
 	border-collapse: collapse;
 	margin: auto;
-	font-size: 20px;
-	min-width: 400px;
+	font-size: 15px;
 	border-radius: 5px 5px 5px 5px;
 	overflow: hidden;
 	box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
